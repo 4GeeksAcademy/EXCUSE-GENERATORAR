@@ -1,1 +1,14 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+h1 {
+  color: white;
+  text-align: center;
+  font-family: Sans-serif;
+  font-size: 64px;
+  line-height: normal;
+}
+p {
+  color: white;
+  text-align: center;
+  font-family: Sans-serif;
+  font-size: 42px;
+  line-height: normal;
+}
